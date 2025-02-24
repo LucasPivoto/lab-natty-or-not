@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Teste das Capacidades Gennrativas da IA na realição de Imagens e Vídeos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse breve projeto visa testar a precisão da IA no cumprimento e na precisão dos pedidos, além de testar capacidades de dublagem de vídeos e seu realismo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Primeira IA para produção da imagem: [Leonardo.AI](https://app.leonardo.ai/)
+
+Segunda IA para produção da imagem: [ChatGPT](https://chatgpt.com/)
+
+IA para dublagem do vídeo gerado a partir da imagem: [Creative Reality Studio](https://studio.d-id.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação da imagem foi feita a partir de requsições feitas a IA. As requisições foram para produzir uma imagem sobre "Uma pessa muito real".
+
+Já para a realização do vídeo foi utilizado um upload da minha foto junto com uma gravação de um áudio que realizei no próprio site, mas também foi realizado com um script e uma voz existente no acervo. O site transformou a foto em um vídeo em que a partir de mudançãs na face do indivíduo fez com que ele gesticulasse e pronunciasse tanto o que foi dito no áudio quanto no script.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+[Imagem 1](https://app.leonardo.ai/canvas)
+
+[Imagem 2](https://files.oaiusercontent.com/file-VnH1hGrAeak2BfNTRngt92?se=2025-02-24T21%3A00%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D73226c2a-7ca6-43fb-81c8-eeeeaf8d21c7.webp&sig=qRnk02ermyL4GDHjAKksk48xtRdpn/YkwsukiHSCBsA%3D)
+
+[Vídeo](https://studio.d-id.com/share?id=ab165812b51cf3056f6f4582babb08f0&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É possível utilizar sites e aplicativos para a produção de um conteúdo muito realístico a partir da IA, se aproximando bastante do "natty", por isso ela deve ser utilizada com consciência para não provocar problemas para ninguém e não disseminar mentiras.
